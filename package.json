@@ -1,0 +1,14 @@
+{
+  "name": "firstproj",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Austin K",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "license": "ISC"
+}
